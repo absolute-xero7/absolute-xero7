@@ -14,7 +14,9 @@
   
 ## Projects
 
-- **[fixScribe](https://github.com/absolute-xero7/fixScribe):** A full-stack project catered towards tech repair stores to get rid of their sticky notes system.
+- **[fixScribe](https://github.com/absolute-xero7/fixScribe):** A MERN-stack project catered towards tech repair stores to get rid of their sticky notes system.
+- **[fitHub](https://github.com/absolute-xero7/fit-hub):** A React project utilizing multiple different APIs to make it easier to look up different exercises and technique videos.
+
 
 ## Experience
 - **FullStack Developer:** [Adaptive and Iterative Experimentation Platform] - Developed web applications using modern frameworks and technologies.
