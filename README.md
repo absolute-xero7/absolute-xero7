@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Prahlad</h1>
 <h3 align="center">A passionate developer studying at the University of Toronto.</h3>
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=absolute-xero7&show_icons=true&theme=radical)
+- 🌱 I’m currently learning **MERN stack**
 
-- 🔭 I’m currently working on **building up my cyber security skills**
+- 💬 Ask me about **Python, JavaScript, React**
+- 🤍 Feel free to connect. Always up for networking and collaboration.
+- 📫 How to reach me **prahlad.ranjit7@gmail.com**
 
 ## Skills
 - **Languages:** Python, JavaScript, Java, C++, SQL, HTML, CSS
@@ -11,9 +13,11 @@
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other:** Linux, Shell Scripting, Pentesting
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=absolute-xero7&theme=dark&border_radius=6)](https://git.io/streak-stats)
   
 ## Projects
-
 - **[fixScribe](https://github.com/absolute-xero7/fixScribe):** A MERN-stack project catered towards tech repair stores to get rid of their sticky notes system.
 - **[fitHub](https://github.com/absolute-xero7/fit-hub):** A React project utilizing multiple different APIs to make it easier to look up different exercises and technique videos.
 
