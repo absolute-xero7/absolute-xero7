@@ -140,11 +140,10 @@ MERN stack task management app for tech repair shops
 ## 🏆 Achievements
 
 - 🥇 **1st Place** - Claude Builder Club Sonnet 4.5 Challenge (StudyFlow)
-- 🔐 **96+ vulnerabilities** detected per VulnScan comprehensive scan
-- 💊 **50+ active users** on DoseMate with 70% retention rate
 - 🤖 **800+ hours** of manual work automated through scripts and workflows
 - 👥 **100+ members** supported through VP of IT & Operations role
 - 💼 **$130K+ budget** managed as Orientation Executive at Trinity College
+- 🔐 **96+ vulnerabilities** detected per VulnScan comprehensive scan
 
 ---
 
