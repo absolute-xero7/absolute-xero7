@@ -137,18 +137,6 @@ MERN stack task management app for tech repair shops
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=absolute-xero7&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=absolute-xero7&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **1st Place** - Claude Builder Club Sonnet 4.5 Challenge (StudyFlow)
